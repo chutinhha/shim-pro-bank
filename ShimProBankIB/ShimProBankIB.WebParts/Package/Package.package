@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9d2eb065-f71b-4b50-9481-18035b1b4809" solutionId="9d2eb065-f71b-4b50-9481-18035b1b4809" resetWebServer="false" name="ShimProBankIB.WebParts" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a16df216-fbd7-4d1e-bf42-9dad90e30838" />
+  </features>
+</package>
